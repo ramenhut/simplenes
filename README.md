@@ -17,4 +17,4 @@ Notable features include:
 * Output display rendering using OpenGL
 
 ### More Information
-For more information visit my SimpleNES project page at [http://www.bertolami.com](http://localhost:8080/draft6/index.php?engine=portfolio&content=emulation&detail=nes-emulator).
+For more information visit my SimpleNES project page at [http://www.bertolami.com](http://bertolami.com/index.php?engine=portfolio&content=emulation&detail=nes-emulator).
